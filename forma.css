@@ -1,0 +1,20 @@
+h1{
+    text-align: center;
+}
+body{
+    background-image: url('feketetegla.jfif');
+    color: white;
+
+}
+
+.right{
+    float: right;
+}
+
+.left{
+    float: left;
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
